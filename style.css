@@ -1,0 +1,117 @@
+.head{
+    background-color: darkolivegreen;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+body{
+    background-color: rgb(191, 207, 164);
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+.col{
+    background-color: darkolivegreen;
+    color: white;
+    height: 400px;
+    display: flex;
+    display: block;
+    width: 300px;
+    justify-content:flex-start;
+    margin-left: 50px;
+    border-radius: 8px;
+}
+
+
+/* 
+#col0002{
+    display: flex;
+    background:darkolivegreen;
+    height: 300px;
+    width: 300px;
+    justify-content:center;
+    align-items: center;
+    flex-direction:row;
+    border-radius: 8px;
+    float: right;
+
+} */
+
+.col1{
+    background-color:  darkolivegreen;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 8px;
+    float: right;
+    flex-direction: row-reverse;
+    
+}
+
+.col2{
+    background-color:  darkolivegreen;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 8px;
+    float: right;
+    flex-direction: row-reverse;
+    
+    
+}
+
+
+.col3{
+    background-color: darkolivegreen;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 8px;
+    float: right;
+    flex-direction: row-reverse;
+}
+
+
+.col4{
+    background-color: darkolivegreen;
+    display: flex;
+    height: 100px;
+    width: 700px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 8px;
+   
+}
+
+
+
+
+
+#sea{
+    display: flex;
+    float:right ;
+    height: 40px;
+    width:500px;
+    border-radius: 8px;
+    background-color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.icon{
+    background-color: aliceblue;
+}
